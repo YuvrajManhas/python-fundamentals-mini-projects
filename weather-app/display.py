@@ -4,4 +4,5 @@ def display(data):
     print("City: ", data["name"])
     print("Temperature: ", data["main"]["temp"], "°C")
     print("Humidity: ", data["main"]["humidity"], "%")
-    print("Conditio: ", data["weather"][0]["description"])
+    print("Condition: ", data["weather"][0]["description"])
+    print("Feels like: ", data["main"]["feels_like"],"°C")

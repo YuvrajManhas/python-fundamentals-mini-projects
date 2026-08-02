@@ -1,0 +1,136 @@
+[
+    {
+        "coord": {
+            "lon": 73.8553,
+            "lat": 18.5196
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 26.34,
+            "feels_like": 26.34,
+            "temp_min": 24.21,
+            "temp_max": 26.34,
+            "pressure": 1005,
+            "humidity": 66,
+            "sea_level": 1005,
+            "grnd_level": 932
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 8.43,
+            "deg": 264,
+            "gust": 12.84
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1785307730,
+        "sys": {
+            "type": 2,
+            "id": 2104163,
+            "country": "IN",
+            "sunrise": 1785285660,
+            "sunset": 1785332454
+        },
+        "timezone": 19800,
+        "id": 1259229,
+        "name": "Pune",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 77.2167,
+            "lat": 28.6667
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 36.06,
+            "feels_like": 39.99,
+            "temp_min": 36.06,
+            "temp_max": 36.06,
+            "pressure": 999,
+            "humidity": 42,
+            "sea_level": 999,
+            "grnd_level": 975
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.67,
+            "deg": 112,
+            "gust": 2.18
+        },
+        "clouds": {
+            "all": 98
+        },
+        "dt": 1785307528,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1785283829,
+            "sunset": 1785332672
+        },
+        "timezone": 19800,
+        "id": 1273294,
+        "name": "Delhi",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 74.8667,
+            "lat": 32.7333
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 35.73,
+            "feels_like": 41.61,
+            "temp_min": 35.73,
+            "temp_max": 35.73,
+            "pressure": 998,
+            "humidity": 48,
+            "sea_level": 998,
+            "grnd_level": 961
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.39,
+            "deg": 161,
+            "gust": 2.3
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1785308009,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1785283921,
+            "sunset": 1785333708
+        },
+        "timezone": 19800,
+        "id": 1269321,
+        "name": "Jammu",
+        "cod": 200
+    }
+]
