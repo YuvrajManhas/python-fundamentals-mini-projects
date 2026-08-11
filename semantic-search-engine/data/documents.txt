@@ -1,0 +1,10 @@
+Python is a popular programming language used for web development and data science.
+Machine learning allows computers to learn patterns from data.
+Python is widely used in artificial intelligence and machine learning.
+Deep learning is a subset of machine learning that uses neural networks.
+Data science combines statistics, programming, and domain knowledge.
+You can learn Python through online courses and programming tutorials.
+Neural networks are inspired by the structure of the human brain.
+Natural language processing allows computers to understand human language.
+Computer vision enables computers to understand images and videos.
+FAISS is a library for efficient similarity search of dense vectors.
