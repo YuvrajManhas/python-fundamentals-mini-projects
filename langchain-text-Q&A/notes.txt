@@ -1,0 +1,11 @@
+Machine learning is a subset of artificial intelligence.
+
+Supervised learning uses labeled data to train a model.
+
+Unsupervised learning works with unlabeled data and is commonly used for finding patterns in datasets.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers.
+
+Classification is a supervised learning task where the model predicts a category or class.
+
+Regression is a supervised learning task where the model predicts a continuous numerical value.
