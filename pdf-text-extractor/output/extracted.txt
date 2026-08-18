@@ -1,0 +1,46 @@
+
+--Page 1--
+Yuvraj Singh
++91 9622006996 | yuvraj.manhas2608@gmail.com | LinkedIn | GitHub
+Summary
+Computer Engineering student with hands-on experience in Python, SQL, Machine Learning, NLP and software devel-
+opment. Passionate about Generative AI, workflow automation and building AI-powered applications.
+Education
+Pimpri Chinchwad College of Engineering, Pune
+Expected May 2027
+B.Tech Computer Engineering
+CGPA: 8.62/10
+Technical Skills
+Languages: Python, C++, Java, C, SQL
+AI/ML: Scikit-learn, Pandas, NumPy, Matplotlib, NLP, TF-IDF, Cosine Similarity, Regression, Classification, Clus-
+tering
+Core: DSA, OOP, DBMS, Operating Systems, Computer Networks
+Tools: Git, GitHub, VS Code, Jupyter, Google Colab
+Web: HTML, CSS, REST APIs, JSON
+Projects
+AI-Based Movie Recommendation System
+Feb 2026
+github.com/YuvrajManhas/Movie-Recommendation
+• Developed a content-based movie recommendation system using TF-IDF vectorization and cosine similarity to gen-
+erate personalized recommendations.
+• Built an NLP pipeline for preprocessing, feature extraction and similarity computation using Pandas and Scikit-learn.
+• Integrated REST APIs to retrieve and process JSON movie metadata.
+• Tech Stack: Python, Pandas, NumPy, Scikit-learn, NLP, TF-IDF, Cosine Similarity, REST APIs, JSON, Pickle,
+Git.
+Automatic Time Table Generator
+May 2025
+• Developed an automated timetable scheduling system in Python using Constraint Satisfaction Problem (CSP) and
+backtracking techniques to generate conflict-free academic schedules.
+• Implemented scheduling constraints for faculty, classrooms, laboratories, subjects and time slots while optimizing
+resource allocation.
+• Reduced manual scheduling effort through automated validation and conflict detection with a modular object-oriented
+design.
+• Tech Stack: Python, CSP, Backtracking, Object-Oriented Programming, Algorithms, Git.
+Leadership
+Marketing Head, OWASP Student Chapter PCCoE
+Aug 2025–May 2026
+• Lead marketing and promotional activities for cybersecurity events.
+• Coordinate outreach initiatives and student engagement.
+Certifications
+Scaler – Python Course for Beginners; Great Learning – Python Projects; Coding Ninjas – Basics of Python
+Repository: Certificates-and-Achievements
